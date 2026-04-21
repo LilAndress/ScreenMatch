@@ -4,7 +4,8 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-ScreenMatch es una aplicación robusta diseñada para la gestión y exploración de series televisivas. Integra el consumo de datos persistentes desde APIs externas, procesamiento inteligente con IA y una interfaz web moderna y dinámica. Este proyecto forma parte de la formación **Avanzando con Java** de Alura.
+
+ScreenMatch es una aplicación robusta diseñada para la gestión y exploración de series televisivas. Integra el consumo de datos persistentes desde APIs externas, procesamiento inteligente con IA y una interfaz web moderna y dinámica. 
 ## 🖥️ Interfaz Web Dinámica
 El proyecto cuenta con una **interfaz gráfica web completa** que permite visualizar el catálogo de series de manera profesional. Entre sus características principales destacan:
 - **Detalle Exhaustivo:** Visualización de fichas técnicas completas (imagen de portada, sinopsis, evaluación).
